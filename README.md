@@ -1,5 +1,5 @@
 # zs6encoder
-/*
+
     Port of duckencoder.jar to MSVC C++ by Eric Stockenstrom  2025-04-15
     
     Acknowledgements:
@@ -16,4 +16,4 @@
         Your new inject.bin is created in {YourFolder}
         Check the monitor output for errors
 
-*/
+
